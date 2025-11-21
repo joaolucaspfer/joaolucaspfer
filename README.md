@@ -2,7 +2,7 @@
 
 👀 I’m interested in technology, evangelization, and web development.
 
-🌱 I’m currently learning Python, Java, HTML, CSS, PHP, Bootstrap, and guitar. 🎸
+🌱 I’m currently learning Python, Java, HTML, CSS, PHP, Bootstrap, C, C++, C#, Java Script, Type Script and guitar. 🎸
 
 💞️ I’m looking to collaborate on projects related to web development and Catholic digital initiatives.
 
