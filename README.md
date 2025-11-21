@@ -1,11 +1,25 @@
-👋 Hi, I’m @joaolucaspfer from Belo Horizonte, Brazil.
+👋 Hi, I’m @joaolucaspfer, from Belo Horizonte, Brazil — a tech enthusiast and someone who loves bringing faith and technology together.
 
-👀 I’m interested in technology, evangelization, and web development.
+👀 I’m interested in: technology, evangelization, web development, digital creativity, and any initiative that helps spread good values online.
 
-🌱 I’m currently learning Python, Java, HTML, CSS, PHP, Bootstrap, C, C++, C#, Java Script, Type Script and guitar. 🎸
+🌱 I’m currently learning: Python, Java, HTML, CSS, PHP, Bootstrap, C, C++, C#, JavaScript, TypeScript — and also improving my guitar skills 🎸.
 
-💞️ I’m looking to collaborate on projects related to web development and Catholic digital initiatives.
+💻 My development focus:
 
-📫 How to reach me: Feel free to contact me here on GitHub! Or on my email: joaolucasper@gmail.com 
+- Building clean, functional, and meaningful web projects;
 
-⚡ Fun fact: I love combining faith and technology to create meaningful projects! 🙌
+- Improving my programming logic through multiple languages;
+
+- Studying both front-end and back-end development to become a full‑stack developer;
+
+- Understanding how technology can support evangelization.
+
+💞️ I’m looking to collaborate on: web development projects, open‑source initiatives, and especially Catholic digital projects that help evangelize and inspire others.
+
+📫 How to reach me:
+
+GitHub: @joaolucaspfer
+
+Email: joaolucasper@gmail.com
+
+⚡ Fun fact: I love brazilian music!
